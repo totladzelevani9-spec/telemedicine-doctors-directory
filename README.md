@@ -1,7 +1,7 @@
 # სტუდენტი 1 — ექიმების დირექტორია (ინდივიდუალური ნაწილი)
 
 **ავტორი:** ლევანი თოთლაძე
-**ბრენჩები:** feature/doctor-types, feature/fetch-hook, feature/doctor-card, feature/doctor-directory
+**ბრენჩი:** feature/doctor-directory
 
 ## რას აკეთებს
 ექიმების სია, ძიება სახელით და ფილტრაცია სპეციალობით.
