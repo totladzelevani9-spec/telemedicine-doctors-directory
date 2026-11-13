@@ -32,7 +32,7 @@ npm run build   # პროდაქშენი (dist/)
 
 | როლი | სახელი | პასუხისმგებლობა | ბრენჩი |
 |------|--------|-----------------|--------|
-| სტუდენტი 1 | ლევანი თოთლაძე | ექიმების კატალოგი: `Doctor` ინტერფეისი, `useFetchDoctors`, `useMemo` ფილტრაცია, `DoctorDirectory`, `DoctorCard` | feature/doctor-types, feature/fetch-hook, feature/doctor-card, feature/doctor-directory |
+| სტუდენტი 1 | ლევანი თოთლაძე | ექიმების კატალოგი: `Doctor` ინტერფეისი, `useFetchDoctors`, `useMemo` ფილტრაცია, `DoctorDirectory`, `DoctorCard` | feature/doctor-directory |
 | სტუდენტი 2 | ლევანი თოთლაძე (სიმულირებული, „ლევანი 2") | ჯავშნის ფორმა: Formik + Yup, `useCallback`, `useBookingForm`, `BookingModal`, `BookingForm` | feature/booking |
 | სტუდენტი 3 | ლევანი თოთლაძე (სიმულირებული, „ლევანი 3") | სამედიცინო ჩანაწერები: Redux Toolkit, `useMedicalRecords`, `PatientDashboard`, `RecordCard` | feature/medical-records |
 | სტუდენტი 4 | ლევანი თოთლაძე (სიმულირებული, „ლევანი 4") | ჩატი: `useRef` ავტომატური სქროლი, `useChat`, `ChatWidget`, `MessageItem` | feature/chat |
